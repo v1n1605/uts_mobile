@@ -39,9 +39,9 @@ Aplikasi ini cocok digunakan untuk demonstrasi konsep **UI/UX** dan **pengembang
 
 ## 🗂️ Struktur Folder
 lib/
-  models/
+\n\nmodels/
     article.dart # Model artikel
-  screens/
+\n\nscreens/
     login_screen.dart # Halaman login
     home_screen.dart # Halaman utama
     detail_screen.dart # Halaman detail berita
