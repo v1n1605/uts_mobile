@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a1",
+    "title": "Festival Teknologi Kota X Memperkenalkan Robot Pertanian",
+    "category": "Teknologi",
+    "excerpt": "Festival teknologi tahunan menampilkan robot pertanian baru yang hemat energi dan mampu memprediksi cuaca mikro-lahan.",
+    "content": "Festival Teknologi Kota X menampilkan serangkaian inovasi terbaru di bidang agritech, termasuk robot pertanian otonom yang dapat memantau kelembapan tanah, menyiram, dan mengumpulkan data cuaca mikro secara real-time. Tim peneliti menyatakan bahwa ... (isi lengkap artikel untuk tampilan detail).",
+    "image": "https://picsum.photos/800/450?image=1069",
+    "author": "R. Nugraha",
+    "published_at": "2025-10-05"
+  },
+  {
+    "id": "a2",
+    "title": "Tips Menjaga Kesegaran Buah di Musim Hujan",
+    "category": "Lifestyle",
+    "excerpt": "Musim hujan sering membuat buah mudah busuk. Berikut beberapa tips sederhana untuk menjaganya tetap segar.",
+    "content": "Untuk menjaga kesegaran buah selama musim hujan, simpan di tempat yang kering, hindari menumpuk terlalu banyak, dan gunakan wadah bersirkulasi udara. Selain itu ...",
+    "image": "https://picsum.photos/800/450?image=1011",
+    "author": "S. Putri",
+    "published_at": "2025-09-28"
+  },
+  {
+    "id": "a3",
+    "title": "Pameran Seni Rupa Kontemporer Dibuka Minggu Ini",
+    "category": "Seni",
+    "excerpt": "Pameran menampilkan 40 karya dari seniman dalam dan luar negeri, dengan tema 'Ruang dan Waktu'.",
+    "content": "Pameran ini mengajak pengunjung memaknai ulang hubungan antara ruang dan waktu melalui instalasi interaktif. Kurator pameran menjelaskan ...",
+    "image": "https://picsum.photos/800/450?image=1025",
+    "author": "A. Widodo",
+    "published_at": "2025-10-12"
+  }
+]
