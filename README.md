@@ -39,20 +39,20 @@ Aplikasi ini cocok digunakan untuk demonstrasi konsep **UI/UX** dan **pengembang
 
 ## 🗂️ Struktur Folder
 lib/
-┣ models/
-┃ ┗ article.dart # Model artikel
-┣ screens/
-┃ ┣ login_screen.dart # Halaman login
-┃ ┣ home_screen.dart # Halaman utama
-┃ ┗ detail_screen.dart # Halaman detail berita
-┣ widgets/
-┃ ┗ article_card.dart # Komponen tampilan artikel
-┣ theme/
-┃ ┗ app_theme.dart # Konfigurasi light & dark mode
-┗ main.dart # Entry point aplikasi
+  models/
+    article.dart # Model artikel
+  screens/
+    login_screen.dart # Halaman login
+    home_screen.dart # Halaman utama
+    detail_screen.dart # Halaman detail berita
+  widgets/
+    article_card.dart # Komponen tampilan artikel
+  theme/
+    app_theme.dart # Konfigurasi light & dark mode
+  main.dart # Entry point aplikasi
 assets/
-┣ news.json # Data dummy artikel
-┗ images/bg_login.jpg # Background halaman login
+  news.json # Data dummy artikel
+  images/bg_login.jpg # Background halaman login
 
 ## ⚙️ Cara Menjalankan Proyek
 1. Clone/Download Repository
